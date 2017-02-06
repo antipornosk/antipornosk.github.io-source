@@ -1,0 +1,13 @@
+<div>
+    $for(posts)$
+        <div class="post-list-item">
+            <div>
+              <span class="glyphicon glyphicon-time"></span>
+              <span class="post-list-date">$date$</span>
+            </div>
+            <h2><a href="$url$">$title$</a></h2>
+            $body$
+            <div class="continue-link"><a href="$url$">Viac &raquo;</a></div>
+        </div>
+    $endfor$
+</div>
