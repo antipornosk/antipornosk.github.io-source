@@ -56,3 +56,7 @@ p {
 .right-panel-ad {
 	height: 252px;
 }
+
+.list li {
+	margin: 10px 0;
+}
