@@ -13,4 +13,5 @@
 * [Cure the craving](http://curethecraving.com/) je další populárny program na bojovanie s porno závislosťou
 * [porn-free.org](http://porn-free.org/) stránka kresťana Paula, ktorý sa vyliečil po 20 rokoch závislosti.
 * [beltoftruth.com](http://www.beltoftruth.com) je kresťanská stránka venujúca sa pornu
+* [nofap.com](https://www.nofap.com) blog a fórum
 </div>
